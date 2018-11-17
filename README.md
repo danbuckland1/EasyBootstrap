@@ -1,2 +1,2 @@
 # HW-EasyBootstrap
-Working with Bootstrap on first homework assignment
+Working with Bootstrap 
