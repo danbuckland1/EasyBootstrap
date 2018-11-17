@@ -1,2 +1,2 @@
-# HW-EasyBootstrap
+#EasyBootstrap
 Working with Bootstrap 
